@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments & Configuration
+.venv/
+.env
+.uv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local Database / JSON Memory (ВАЖНО!)
+memory_storage.json
+
+# Logs
+*.log
+# Local databases
+*.db
+*.db-wal
+*.db-shm
